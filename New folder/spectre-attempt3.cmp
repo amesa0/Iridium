@@ -1,0 +1,939 @@
+Cmp-Mod V01 Created by PcbNew   date = 4/27/2018 5:55:29 PM
+
+BeginCmp
+TimeStamp = 5ADE5A80
+Path = /5AE049E2
+Reference = R1;
+ValeurCmp = 5.1k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE5A85
+Path = /5AE049EA
+Reference = R2;
+ValeurCmp = 5.1k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5A56AF5D
+Path = /5AE095A6
+Reference = U1;
+ValeurCmp = MIC550X;
+IdModule  = Package_TO_SOT_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAEC3
+Path = /5A539530
+Reference = K20;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE76F1
+Path = /5AE049D6
+Reference = J2;
+ValeurCmp = USB_Type_C_2.0_Receptacle;
+IdModule  = conn_usb:USB_TypeC_U31F-24SNA0201;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB03D
+Path = /5A537C5C
+Reference = K38;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEADC5
+Path = /5A53921A
+Reference = K10;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEDA77
+Path = /5A56D8A0
+Reference = K25;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_Plate_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAF6B
+Path = /5A56D8B2
+Reference = K28;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB428
+Path = /5AE1894D
+Reference = K77;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB413
+Path = /5AE18977
+Reference = K76;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB126
+Path = /5AE0A8EC
+Reference = K47;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEDAA5
+Path = /5A537C62
+Reference = K39;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_Plate_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE5860
+Path = /5AE09571
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAFE9
+Path = /5A537C74
+Reference = K34;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB0A6
+Path = /5AE0A904
+Reference = K43;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB376
+Path = /5A56D918
+Reference = K71;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_275H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB111
+Path = /5AE0A8E6
+Reference = K46;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB0D0
+Path = /5AE0A8E0
+Reference = K45;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAFBF
+Path = /5A56D89A
+Reference = K32;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAFAA
+Path = /5A56D894
+Reference = K31;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAF56
+Path = /5A56D8AC
+Reference = K27;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAEED
+Path = /5A53950C
+Reference = K22;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAFFE
+Path = /5A537C7A
+Reference = K35;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAE99
+Path = /5A539524
+Reference = K18;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEDABC
+Path = /5A537C68
+Reference = K40;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_Plate_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE5865
+Path = /5AE095B2
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE584C
+Path = /5AE0957D
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF0457
+Path = /5AE0A625
+Reference = K8;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAE04
+Path = /5A5391FC
+Reference = K13;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE5851
+Path = /5AE0954D
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE5856
+Path = /5AE09559
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE585B
+Path = /5AE09565
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE586A
+Path = /5AE095BE
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE5874
+Path = /5AE0D16D
+Reference = C8;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE587A
+Path = /5AE0D179
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE5880
+Path = /5AE0D185
+Reference = C10;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADE5886
+Path = /5AE0D191
+Reference = C11;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAD08
+Path = /5AE0A62B
+Reference = K1;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAD1D
+Path = /5AE0A631
+Reference = K2;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAD32
+Path = /5AE0A637
+Reference = K3;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAD47
+Path = /5AE0A63D
+Reference = K4;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAD5C
+Path = /5AE0A613
+Reference = K5;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAD71
+Path = /5AE0A619
+Reference = K6;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAD86
+Path = /5AE0A61F
+Reference = K7;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEADDA
+Path = /5A539220
+Reference = K11;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEADEF
+Path = /5A539226
+Reference = K12;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAE19
+Path = /5A539202
+Reference = K14;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAE2E
+Path = /5A539208
+Reference = K15;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAE43
+Path = /5A53920E
+Reference = K16;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_200H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAE84
+Path = /5A53951E
+Reference = K17;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAEAE
+Path = /5A53952A
+Reference = K19;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAED8
+Path = /5A539506
+Reference = K21;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAF02
+Path = /5A539512
+Reference = K23;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAF80
+Path = /5A56D888
+Reference = K29;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAF95
+Path = /5A56D88E
+Reference = K30;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEAFD4
+Path = /5A537C6E
+Reference = K33;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_175H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB013
+Path = /5A537C80
+Reference = K36;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB028
+Path = /5A537C56
+Reference = K37;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB091
+Path = /5AE0A8FE
+Reference = K42;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB0BB
+Path = /5AE0A90A
+Reference = K44;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB167
+Path = /5AE0A8F2
+Reference = K48;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_200H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB1A8
+Path = /5AE0A92E
+Reference = K49;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB1BD
+Path = /5AE0A934
+Reference = K50;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB1D2
+Path = /5AE0A93A
+Reference = K51;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB1E7
+Path = /5AE0A940
+Reference = K52;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB1FC
+Path = /5AE0A916
+Reference = K53;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB211
+Path = /5AE0A91C
+Reference = K54;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB226
+Path = /5AE0A922
+Reference = K55;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB23B
+Path = /5AE0A928
+Reference = K56;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB250
+Path = /5A56D8EE
+Reference = K57;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB265
+Path = /5A56D8F4
+Reference = K58;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB27A
+Path = /5A56D8FA
+Reference = K59;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB28F
+Path = /5A56D900
+Reference = K60;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB2A4
+Path = /5A56D8D6
+Reference = K61;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB2B9
+Path = /5A56D8DC
+Reference = K62;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB2CE
+Path = /5A56D8E2
+Reference = K63;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB2E3
+Path = /5A56D8E8
+Reference = K64;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB2F8
+Path = /5A56D924
+Reference = K65;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB30D
+Path = /5A56D92A
+Reference = K66;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB322
+Path = /5A56D930
+Reference = K67;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB337
+Path = /5A56D936
+Reference = K68;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB34C
+Path = /5A56D90C
+Reference = K69;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_175H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB361
+Path = /5A56D912
+Reference = K70;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB3BF
+Path = /5A56D91E
+Reference = K72;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_175H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB3D4
+Path = /5AE18965
+Reference = K73;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB3E9
+Path = /5AE1896B
+Reference = K74;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB3FE
+Path = /5AE18971
+Reference = K75;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB43D
+Path = /5AE18953
+Reference = K78;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB452
+Path = /5AE18959
+Reference = K79;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_275H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB49B
+Path = /5AE1895F
+Reference = K80;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB4DC
+Path = /5AE18C4F
+Reference = K81;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_625H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB51D
+Path = /5AE18C55
+Reference = K82;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB532
+Path = /5AE18C5B
+Reference = K83;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB547
+Path = /5AE18C61
+Reference = K84;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB588
+Path = /5AE18C37
+Reference = K85;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_275H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB5D1
+Path = /5AE18C3D
+Reference = K86;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB5E6
+Path = /5AE18C43
+Reference = K87;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB5FB
+Path = /5AE18C49
+Reference = K88;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB610
+Path = /5AE0AB50
+Reference = K89;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB625
+Path = /5AE0AB56
+Reference = K90;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB63A
+Path = /5AE19078
+Reference = K91;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB64F
+Path = /5AE1907E
+Reference = K92;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB664
+Path = /5AE19CE0
+Reference = K93;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEB679
+Path = /5ADEA1FE
+Reference = K94;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEF04C
+Path = /5A56D8A6
+Reference = K26;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADEF061
+Path = /5AE0A8F8
+Reference = K41;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF046C
+Path = /5A539214
+Reference = K9;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADF5721
+Path = /5AE03F26
+Reference = U2;
+ValeurCmp = ATXMEGA128A1U-AU;
+IdModule  = Housings_QFP:TQFP-100_14x14mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE34D9D
+Path = 
+Reference = 6;
+ValeurCmp = mounting;
+IdModule  = locallib:mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE34E52
+Path = 
+Reference = 4;
+ValeurCmp = mounting;
+IdModule  = locallib:mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE34E65
+Path = 
+Reference = 5;
+ValeurCmp = mounting;
+IdModule  = locallib:mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE34E7F
+Path = 
+Reference = 3;
+ValeurCmp = mounting;
+IdModule  = locallib:mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE34EA3
+Path = 
+Reference = 1;
+ValeurCmp = mounting;
+IdModule  = locallib:mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE34EBC
+Path = 
+Reference = 2;
+ValeurCmp = mounting;
+IdModule  = locallib:mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE3714A
+Path = /5A539518
+Reference = K24;
+ValeurCmp = K00;
+IdModule  = TheKeebrary:MX_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE37361
+Path = /5AE09594
+Reference = J1;
+ValeurCmp = TC2030-IDC;
+IdModule  = Tag-Connect:TC2030-NL_SMALL;
+EndCmp
+
+EndListe
