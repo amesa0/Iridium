@@ -1,0 +1,1821 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A1 33110 23386
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L keyboard_parts:SW_PUSH SW0
+U 1 1 5B04DCF7
+P 2000 1700
+F 0 "SW0" H 2000 1955 50  0000 C CNN
+F 1 "K0" H 2000 1864 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 1700 60  0001 C CNN
+F 3 "" H 2000 1700 60  0000 C CNN
+	1    2000 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW1
+U 1 1 5B04DE2D
+P 2000 2000
+F 0 "SW1" H 2000 2255 50  0000 C CNN
+F 1 "K0" H 2000 2164 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 2000 60  0001 C CNN
+F 3 "" H 2000 2000 60  0000 C CNN
+	1    2000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW2
+U 1 1 5B04DE71
+P 2000 2250
+F 0 "SW2" H 2000 2505 50  0000 C CNN
+F 1 "K0" H 2000 2414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 2250 60  0001 C CNN
+F 3 "" H 2000 2250 60  0000 C CNN
+	1    2000 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW3
+U 1 1 5B04DE77
+P 2000 2550
+F 0 "SW3" H 2000 2805 50  0000 C CNN
+F 1 "K0" H 2000 2714 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 2550 60  0001 C CNN
+F 3 "" H 2000 2550 60  0000 C CNN
+	1    2000 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW4
+U 1 1 5B04DEE9
+P 2000 2800
+F 0 "SW4" H 2000 3055 50  0000 C CNN
+F 1 "K0" H 2000 2964 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 2800 60  0001 C CNN
+F 3 "" H 2000 2800 60  0000 C CNN
+	1    2000 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW5
+U 1 1 5B04DEEF
+P 2000 3100
+F 0 "SW5" H 2000 3355 50  0000 C CNN
+F 1 "K0" H 2000 3264 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 3100 60  0001 C CNN
+F 3 "" H 2000 3100 60  0000 C CNN
+	1    2000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW6
+U 1 1 5B04DEF5
+P 2000 3350
+F 0 "SW6" H 2000 3605 50  0000 C CNN
+F 1 "K0" H 2000 3514 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 3350 60  0001 C CNN
+F 3 "" H 2000 3350 60  0000 C CNN
+	1    2000 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW7
+U 1 1 5B04DEFB
+P 2000 3650
+F 0 "SW7" H 2000 3905 50  0000 C CNN
+F 1 "K0" H 2000 3814 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 3650 60  0001 C CNN
+F 3 "" H 2000 3650 60  0000 C CNN
+	1    2000 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW8
+U 1 1 5B04E129
+P 2000 3950
+F 0 "SW8" H 2000 4205 50  0000 C CNN
+F 1 "K0" H 2000 4114 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 3950 60  0001 C CNN
+F 3 "" H 2000 3950 60  0000 C CNN
+	1    2000 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW9
+U 1 1 5B04E12F
+P 2000 4250
+F 0 "SW9" H 2000 4505 50  0000 C CNN
+F 1 "K0" H 2000 4414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 4250 60  0001 C CNN
+F 3 "" H 2000 4250 60  0000 C CNN
+	1    2000 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW20
+U 1 1 5B04E5BA
+P 3600 1700
+F 0 "SW20" H 3600 1955 50  0000 C CNN
+F 1 "K0" H 3600 1864 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 1700 60  0001 C CNN
+F 3 "" H 3600 1700 60  0000 C CNN
+	1    3600 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW21
+U 1 1 5B04E5C0
+P 3600 2000
+F 0 "SW21" H 3600 2255 50  0000 C CNN
+F 1 "K0" H 3600 2164 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 2000 60  0001 C CNN
+F 3 "" H 3600 2000 60  0000 C CNN
+	1    3600 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW22
+U 1 1 5B04E5C6
+P 3600 2250
+F 0 "SW22" H 3600 2505 50  0000 C CNN
+F 1 "K0" H 3600 2414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 2250 60  0001 C CNN
+F 3 "" H 3600 2250 60  0000 C CNN
+	1    3600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW23
+U 1 1 5B04E5CC
+P 3600 2550
+F 0 "SW23" H 3600 2805 50  0000 C CNN
+F 1 "K0" H 3600 2714 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 2550 60  0001 C CNN
+F 3 "" H 3600 2550 60  0000 C CNN
+	1    3600 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW24
+U 1 1 5B04E5D2
+P 3600 2800
+F 0 "SW24" H 3600 3055 50  0000 C CNN
+F 1 "K0" H 3600 2964 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 2800 60  0001 C CNN
+F 3 "" H 3600 2800 60  0000 C CNN
+	1    3600 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW25
+U 1 1 5B04E5D8
+P 3600 3100
+F 0 "SW25" H 3600 3355 50  0000 C CNN
+F 1 "K0" H 3600 3264 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 3100 60  0001 C CNN
+F 3 "" H 3600 3100 60  0000 C CNN
+	1    3600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW26
+U 1 1 5B04E5DE
+P 3600 3350
+F 0 "SW26" H 3600 3605 50  0000 C CNN
+F 1 "K0" H 3600 3514 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 3350 60  0001 C CNN
+F 3 "" H 3600 3350 60  0000 C CNN
+	1    3600 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW27
+U 1 1 5B04E5E4
+P 3600 3650
+F 0 "SW27" H 3600 3905 50  0000 C CNN
+F 1 "K0" H 3600 3814 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 3650 60  0001 C CNN
+F 3 "" H 3600 3650 60  0000 C CNN
+	1    3600 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW28
+U 1 1 5B04E5EA
+P 3600 3950
+F 0 "SW28" H 3600 4205 50  0000 C CNN
+F 1 "K0" H 3600 4114 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 3950 60  0001 C CNN
+F 3 "" H 3600 3950 60  0000 C CNN
+	1    3600 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW29
+U 1 1 5B04E5F0
+P 3600 4250
+F 0 "SW29" H 3600 4505 50  0000 C CNN
+F 1 "K0" H 3600 4414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 4250 60  0001 C CNN
+F 3 "" H 3600 4250 60  0000 C CNN
+	1    3600 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW40
+U 1 1 5B04E812
+P 4950 1700
+F 0 "SW40" H 4950 1955 50  0000 C CNN
+F 1 "K0" H 4950 1864 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 1700 60  0001 C CNN
+F 3 "" H 4950 1700 60  0000 C CNN
+	1    4950 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW41
+U 1 1 5B04E818
+P 4950 2000
+F 0 "SW41" H 4950 2255 50  0000 C CNN
+F 1 "K0" H 4950 2164 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 2000 60  0001 C CNN
+F 3 "" H 4950 2000 60  0000 C CNN
+	1    4950 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW42
+U 1 1 5B04E81E
+P 4950 2250
+F 0 "SW42" H 4950 2505 50  0000 C CNN
+F 1 "K0" H 4950 2414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 2250 60  0001 C CNN
+F 3 "" H 4950 2250 60  0000 C CNN
+	1    4950 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW43
+U 1 1 5B04E824
+P 4950 2550
+F 0 "SW43" H 4950 2805 50  0000 C CNN
+F 1 "K0" H 4950 2714 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 2550 60  0001 C CNN
+F 3 "" H 4950 2550 60  0000 C CNN
+	1    4950 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW44
+U 1 1 5B04E82A
+P 4950 2800
+F 0 "SW44" H 4950 3055 50  0000 C CNN
+F 1 "K0" H 4950 2964 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 2800 60  0001 C CNN
+F 3 "" H 4950 2800 60  0000 C CNN
+	1    4950 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW45
+U 1 1 5B04E830
+P 4950 3100
+F 0 "SW45" H 4950 3355 50  0000 C CNN
+F 1 "K0" H 4950 3264 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 3100 60  0001 C CNN
+F 3 "" H 4950 3100 60  0000 C CNN
+	1    4950 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW46
+U 1 1 5B04E836
+P 4950 3350
+F 0 "SW46" H 4950 3605 50  0000 C CNN
+F 1 "K0" H 4950 3514 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 3350 60  0001 C CNN
+F 3 "" H 4950 3350 60  0000 C CNN
+	1    4950 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW47
+U 1 1 5B04E83C
+P 4950 3650
+F 0 "SW47" H 4950 3905 50  0000 C CNN
+F 1 "K0" H 4950 3814 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 3650 60  0001 C CNN
+F 3 "" H 4950 3650 60  0000 C CNN
+	1    4950 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW48
+U 1 1 5B04E842
+P 4950 3950
+F 0 "SW48" H 4950 4205 50  0000 C CNN
+F 1 "K0" H 4950 4114 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 3950 60  0001 C CNN
+F 3 "" H 4950 3950 60  0000 C CNN
+	1    4950 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW49
+U 1 1 5B04E848
+P 4950 4250
+F 0 "SW49" H 4950 4505 50  0000 C CNN
+F 1 "K0" H 4950 4414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 4250 60  0001 C CNN
+F 3 "" H 4950 4250 60  0000 C CNN
+	1    4950 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW60
+U 1 1 5B04E84E
+P 6550 1700
+F 0 "SW60" H 6550 1955 50  0000 C CNN
+F 1 "K0" H 6550 1864 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 1700 60  0001 C CNN
+F 3 "" H 6550 1700 60  0000 C CNN
+	1    6550 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW61
+U 1 1 5B04E854
+P 6550 2000
+F 0 "SW61" H 6550 2255 50  0000 C CNN
+F 1 "K0" H 6550 2164 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 2000 60  0001 C CNN
+F 3 "" H 6550 2000 60  0000 C CNN
+	1    6550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW62
+U 1 1 5B04E85A
+P 6550 2250
+F 0 "SW62" H 6550 2505 50  0000 C CNN
+F 1 "K0" H 6550 2414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 2250 60  0001 C CNN
+F 3 "" H 6550 2250 60  0000 C CNN
+	1    6550 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW63
+U 1 1 5B04E860
+P 6550 2550
+F 0 "SW63" H 6550 2805 50  0000 C CNN
+F 1 "K0" H 6550 2714 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 2550 60  0001 C CNN
+F 3 "" H 6550 2550 60  0000 C CNN
+	1    6550 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW64
+U 1 1 5B04E866
+P 6550 2800
+F 0 "SW64" H 6550 3055 50  0000 C CNN
+F 1 "K0" H 6550 2964 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 2800 60  0001 C CNN
+F 3 "" H 6550 2800 60  0000 C CNN
+	1    6550 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW65
+U 1 1 5B04E86C
+P 6550 3100
+F 0 "SW65" H 6550 3355 50  0000 C CNN
+F 1 "K0" H 6550 3264 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 3100 60  0001 C CNN
+F 3 "" H 6550 3100 60  0000 C CNN
+	1    6550 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW66
+U 1 1 5B04E872
+P 6550 3350
+F 0 "SW66" H 6550 3605 50  0000 C CNN
+F 1 "K0" H 6550 3514 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 3350 60  0001 C CNN
+F 3 "" H 6550 3350 60  0000 C CNN
+	1    6550 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW67
+U 1 1 5B04E878
+P 6550 3650
+F 0 "SW67" H 6550 3905 50  0000 C CNN
+F 1 "K0" H 6550 3814 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 3650 60  0001 C CNN
+F 3 "" H 6550 3650 60  0000 C CNN
+	1    6550 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW68
+U 1 1 5B04E87E
+P 6550 3950
+F 0 "SW68" H 6550 4205 50  0000 C CNN
+F 1 "K0" H 6550 4114 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 3950 60  0001 C CNN
+F 3 "" H 6550 3950 60  0000 C CNN
+	1    6550 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW69
+U 1 1 5B04E884
+P 6550 4250
+F 0 "SW69" H 6550 4505 50  0000 C CNN
+F 1 "K0" H 6550 4414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 4250 60  0001 C CNN
+F 3 "" H 6550 4250 60  0000 C CNN
+	1    6550 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW10
+U 1 1 5B04F172
+P 2000 5300
+F 0 "SW10" H 2000 5555 50  0000 C CNN
+F 1 "K0" H 2000 5464 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 5300 60  0001 C CNN
+F 3 "" H 2000 5300 60  0000 C CNN
+	1    2000 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW11
+U 1 1 5B04F178
+P 2000 5600
+F 0 "SW11" H 2000 5855 50  0000 C CNN
+F 1 "K0" H 2000 5764 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 5600 60  0001 C CNN
+F 3 "" H 2000 5600 60  0000 C CNN
+	1    2000 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW12
+U 1 1 5B04F17E
+P 2000 5850
+F 0 "SW12" H 2000 6105 50  0000 C CNN
+F 1 "K0" H 2000 6014 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 5850 60  0001 C CNN
+F 3 "" H 2000 5850 60  0000 C CNN
+	1    2000 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW13
+U 1 1 5B04F184
+P 2000 6150
+F 0 "SW13" H 2000 6405 50  0000 C CNN
+F 1 "K0" H 2000 6314 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 6150 60  0001 C CNN
+F 3 "" H 2000 6150 60  0000 C CNN
+	1    2000 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW14
+U 1 1 5B04F18A
+P 2000 6400
+F 0 "SW14" H 2000 6655 50  0000 C CNN
+F 1 "K0" H 2000 6564 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 6400 60  0001 C CNN
+F 3 "" H 2000 6400 60  0000 C CNN
+	1    2000 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW15
+U 1 1 5B04F190
+P 2000 6700
+F 0 "SW15" H 2000 6955 50  0000 C CNN
+F 1 "K0" H 2000 6864 50  0000 C CNN
+F 2 "ai03_hybrid:MX-1U-NoLED" H 2000 6700 60  0001 C CNN
+F 3 "" H 2000 6700 60  0000 C CNN
+	1    2000 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW16
+U 1 1 5B04F196
+P 2000 6950
+F 0 "SW16" H 2000 7205 50  0000 C CNN
+F 1 "K0" H 2000 7114 50  0000 C CNN
+F 2 "ai03_hybrid:MX-2U-NoLED" H 2000 6950 60  0001 C CNN
+F 3 "" H 2000 6950 60  0000 C CNN
+	1    2000 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW17
+U 1 1 5B04F19C
+P 2000 7250
+F 0 "SW17" H 2000 7505 50  0000 C CNN
+F 1 "K0" H 2000 7414 50  0000 C CNN
+F 2 "ai03_hybrid:MX-1U-NoLED" H 2000 7250 60  0001 C CNN
+F 3 "" H 2000 7250 60  0000 C CNN
+	1    2000 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW18
+U 1 1 5B04F1A2
+P 2000 7550
+F 0 "SW18" H 2000 7805 50  0000 C CNN
+F 1 "K0" H 2000 7714 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 7550 60  0001 C CNN
+F 3 "" H 2000 7550 60  0000 C CNN
+	1    2000 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW19
+U 1 1 5B04F1A8
+P 2000 7850
+F 0 "SW19" H 2000 8105 50  0000 C CNN
+F 1 "K0" H 2000 8014 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 7850 60  0001 C CNN
+F 3 "" H 2000 7850 60  0000 C CNN
+	1    2000 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW30
+U 1 1 5B04F1AE
+P 3600 5300
+F 0 "SW30" H 3600 5555 50  0000 C CNN
+F 1 "K0" H 3600 5464 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 5300 60  0001 C CNN
+F 3 "" H 3600 5300 60  0000 C CNN
+	1    3600 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW31
+U 1 1 5B04F1B4
+P 3600 5600
+F 0 "SW31" H 3600 5855 50  0000 C CNN
+F 1 "K0" H 3600 5764 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 5600 60  0001 C CNN
+F 3 "" H 3600 5600 60  0000 C CNN
+	1    3600 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW32
+U 1 1 5B04F1BA
+P 3600 5850
+F 0 "SW32" H 3600 6105 50  0000 C CNN
+F 1 "K0" H 3600 6014 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 5850 60  0001 C CNN
+F 3 "" H 3600 5850 60  0000 C CNN
+	1    3600 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW33
+U 1 1 5B04F1C0
+P 3600 6150
+F 0 "SW33" H 3600 6405 50  0000 C CNN
+F 1 "K0" H 3600 6314 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 6150 60  0001 C CNN
+F 3 "" H 3600 6150 60  0000 C CNN
+	1    3600 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW34
+U 1 1 5B04F1C6
+P 3600 6400
+F 0 "SW34" H 3600 6655 50  0000 C CNN
+F 1 "K0" H 3600 6564 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 6400 60  0001 C CNN
+F 3 "" H 3600 6400 60  0000 C CNN
+	1    3600 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW35
+U 1 1 5B04F1CC
+P 3600 6700
+F 0 "SW35" H 3600 6955 50  0000 C CNN
+F 1 "K0" H 3600 6864 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 6700 60  0001 C CNN
+F 3 "" H 3600 6700 60  0000 C CNN
+	1    3600 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW36
+U 1 1 5B04F1D2
+P 3600 6950
+F 0 "SW36" H 3600 7205 50  0000 C CNN
+F 1 "K0" H 3600 7114 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 6950 60  0001 C CNN
+F 3 "" H 3600 6950 60  0000 C CNN
+	1    3600 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW37
+U 1 1 5B04F1D8
+P 3600 7250
+F 0 "SW37" H 3600 7505 50  0000 C CNN
+F 1 "K0" H 3600 7414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 7250 60  0001 C CNN
+F 3 "" H 3600 7250 60  0000 C CNN
+	1    3600 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW38
+U 1 1 5B04F1DE
+P 3600 7550
+F 0 "SW38" H 3600 7805 50  0000 C CNN
+F 1 "K0" H 3600 7714 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 7550 60  0001 C CNN
+F 3 "" H 3600 7550 60  0000 C CNN
+	1    3600 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW39
+U 1 1 5B04F1E4
+P 3600 7850
+F 0 "SW39" H 3600 8105 50  0000 C CNN
+F 1 "K0" H 3600 8014 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 3600 7850 60  0001 C CNN
+F 3 "" H 3600 7850 60  0000 C CNN
+	1    3600 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW50
+U 1 1 5B04F1EA
+P 4950 5300
+F 0 "SW50" H 4950 5555 50  0000 C CNN
+F 1 "K0" H 4950 5464 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 5300 60  0001 C CNN
+F 3 "" H 4950 5300 60  0000 C CNN
+	1    4950 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW51
+U 1 1 5B04F1F0
+P 4950 5600
+F 0 "SW51" H 4950 5855 50  0000 C CNN
+F 1 "K0" H 4950 5764 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 5600 60  0001 C CNN
+F 3 "" H 4950 5600 60  0000 C CNN
+	1    4950 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW52
+U 1 1 5B04F1F6
+P 4950 5850
+F 0 "SW52" H 4950 6105 50  0000 C CNN
+F 1 "K0" H 4950 6014 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 5850 60  0001 C CNN
+F 3 "" H 4950 5850 60  0000 C CNN
+	1    4950 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW53
+U 1 1 5B04F1FC
+P 4950 6150
+F 0 "SW53" H 4950 6405 50  0000 C CNN
+F 1 "K0" H 4950 6314 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 6150 60  0001 C CNN
+F 3 "" H 4950 6150 60  0000 C CNN
+	1    4950 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW54
+U 1 1 5B04F202
+P 4950 6400
+F 0 "SW54" H 4950 6655 50  0000 C CNN
+F 1 "K0" H 4950 6564 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 6400 60  0001 C CNN
+F 3 "" H 4950 6400 60  0000 C CNN
+	1    4950 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW55
+U 1 1 5B04F208
+P 4950 6700
+F 0 "SW55" H 4950 6955 50  0000 C CNN
+F 1 "K0" H 4950 6864 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 6700 60  0001 C CNN
+F 3 "" H 4950 6700 60  0000 C CNN
+	1    4950 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW56
+U 1 1 5B04F20E
+P 4950 6950
+F 0 "SW56" H 4950 7205 50  0000 C CNN
+F 1 "K0" H 4950 7114 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 6950 60  0001 C CNN
+F 3 "" H 4950 6950 60  0000 C CNN
+	1    4950 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW57
+U 1 1 5B04F214
+P 4950 7250
+F 0 "SW57" H 4950 7505 50  0000 C CNN
+F 1 "K0" H 4950 7414 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 7250 60  0001 C CNN
+F 3 "" H 4950 7250 60  0000 C CNN
+	1    4950 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW58
+U 1 1 5B04F21A
+P 4950 7550
+F 0 "SW58" H 4950 7805 50  0000 C CNN
+F 1 "K0" H 4950 7714 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 7550 60  0001 C CNN
+F 3 "" H 4950 7550 60  0000 C CNN
+	1    4950 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW59
+U 1 1 5B04F220
+P 4950 7850
+F 0 "SW59" H 4950 8105 50  0000 C CNN
+F 1 "K0" H 4950 8014 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 4950 7850 60  0001 C CNN
+F 3 "" H 4950 7850 60  0000 C CNN
+	1    4950 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW70
+U 1 1 5B04F226
+P 6550 5300
+F 0 "SW70" H 6550 5555 50  0000 C CNN
+F 1 "K0" H 6550 5464 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 5300 60  0001 C CNN
+F 3 "" H 6550 5300 60  0000 C CNN
+	1    6550 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW71
+U 1 1 5B04F22C
+P 6550 5600
+F 0 "SW71" H 6550 5855 50  0000 C CNN
+F 1 "K0" H 6550 5764 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 5600 60  0001 C CNN
+F 3 "" H 6550 5600 60  0000 C CNN
+	1    6550 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW72
+U 1 1 5B04F232
+P 6550 5850
+F 0 "SW72" H 6550 6105 50  0000 C CNN
+F 1 "K0" H 6550 6014 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 5850 60  0001 C CNN
+F 3 "" H 6550 5850 60  0000 C CNN
+	1    6550 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW73
+U 1 1 5B04F238
+P 6550 6150
+F 0 "SW73" H 6550 6405 50  0000 C CNN
+F 1 "K0" H 6550 6314 50  0000 C CNN
+F 2 "ai03_hybrid:MX-3U-ReversedStabilizers-NoLED" H 6550 6150 60  0001 C CNN
+F 3 "" H 6550 6150 60  0000 C CNN
+	1    6550 6150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 1700 2300 2000
+Connection ~ 2300 2000
+Wire Wire Line
+	2300 2000 2300 2250
+Connection ~ 2300 2250
+Wire Wire Line
+	2300 2250 2300 2550
+Connection ~ 2300 2550
+Wire Wire Line
+	2300 2550 2300 2800
+Connection ~ 2300 2800
+Wire Wire Line
+	2300 2800 2300 3100
+Connection ~ 2300 3100
+Wire Wire Line
+	2300 3100 2300 3350
+Connection ~ 2300 3350
+Wire Wire Line
+	2300 3350 2300 3650
+Connection ~ 2300 3650
+Wire Wire Line
+	2300 3650 2300 3950
+Connection ~ 2300 3950
+Wire Wire Line
+	2300 3950 2300 4250
+Connection ~ 2300 4250
+Wire Wire Line
+	2300 4250 2300 4500
+Wire Wire Line
+	3900 1700 3900 2000
+Connection ~ 3900 2000
+Wire Wire Line
+	3900 2000 3900 2250
+Connection ~ 3900 2250
+Wire Wire Line
+	3900 2250 3900 2550
+Connection ~ 3900 2550
+Wire Wire Line
+	3900 2550 3900 2800
+Connection ~ 3900 2800
+Wire Wire Line
+	3900 2800 3900 3100
+Connection ~ 3900 3100
+Wire Wire Line
+	3900 3100 3900 3350
+Connection ~ 3900 3350
+Wire Wire Line
+	3900 3350 3900 3650
+Connection ~ 3900 3650
+Wire Wire Line
+	3900 3650 3900 3950
+Connection ~ 3900 3950
+Wire Wire Line
+	3900 3950 3900 4250
+Connection ~ 3900 4250
+Wire Wire Line
+	3900 4250 3900 4500
+Wire Wire Line
+	5250 4500 5250 4250
+Connection ~ 5250 2000
+Wire Wire Line
+	5250 2000 5250 1700
+Connection ~ 5250 2250
+Wire Wire Line
+	5250 2250 5250 2000
+Connection ~ 5250 2550
+Wire Wire Line
+	5250 2550 5250 2250
+Connection ~ 5250 2800
+Wire Wire Line
+	5250 2800 5250 2550
+Connection ~ 5250 3100
+Wire Wire Line
+	5250 3100 5250 2800
+Connection ~ 5250 3350
+Wire Wire Line
+	5250 3350 5250 3100
+Connection ~ 5250 3650
+Wire Wire Line
+	5250 3650 5250 3350
+Connection ~ 5250 3950
+Wire Wire Line
+	5250 3950 5250 3650
+Connection ~ 5250 4250
+Wire Wire Line
+	5250 4250 5250 3950
+Wire Wire Line
+	6850 1700 6850 2000
+Connection ~ 6850 2000
+Wire Wire Line
+	6850 2000 6850 2250
+Connection ~ 6850 2250
+Wire Wire Line
+	6850 2250 6850 2550
+Connection ~ 6850 2550
+Wire Wire Line
+	6850 2550 6850 2800
+Connection ~ 6850 2800
+Wire Wire Line
+	6850 2800 6850 3100
+Connection ~ 6850 3100
+Wire Wire Line
+	6850 3100 6850 3350
+Connection ~ 6850 3350
+Wire Wire Line
+	6850 3350 6850 3650
+Connection ~ 6850 3650
+Wire Wire Line
+	6850 3650 6850 3950
+Connection ~ 6850 3950
+Wire Wire Line
+	6850 3950 6850 4250
+Connection ~ 6850 4250
+Wire Wire Line
+	6850 4250 6850 4500
+Wire Wire Line
+	2300 5300 2300 5600
+Connection ~ 2300 5600
+Wire Wire Line
+	2300 5600 2300 5850
+Connection ~ 2300 5850
+Wire Wire Line
+	2300 5850 2300 6150
+Connection ~ 2300 6150
+Wire Wire Line
+	2300 6150 2300 6400
+Connection ~ 2300 6400
+Wire Wire Line
+	2300 6400 2300 6700
+Connection ~ 2300 6700
+Wire Wire Line
+	2300 6700 2300 6950
+Connection ~ 2300 6950
+Wire Wire Line
+	2300 6950 2300 7250
+Connection ~ 2300 7250
+Wire Wire Line
+	2300 7250 2300 7550
+Connection ~ 2300 7550
+Wire Wire Line
+	2300 7550 2300 7850
+Connection ~ 2300 7850
+Wire Wire Line
+	2300 7850 2300 8150
+Wire Wire Line
+	3900 8150 3900 7850
+Connection ~ 3900 5600
+Wire Wire Line
+	3900 5600 3900 5300
+Connection ~ 3900 5850
+Wire Wire Line
+	3900 5850 3900 5600
+Connection ~ 3900 6150
+Wire Wire Line
+	3900 6150 3900 5850
+Connection ~ 3900 6400
+Wire Wire Line
+	3900 6400 3900 6150
+Connection ~ 3900 6700
+Wire Wire Line
+	3900 6700 3900 6400
+Connection ~ 3900 6950
+Wire Wire Line
+	3900 6950 3900 6700
+Connection ~ 3900 7250
+Wire Wire Line
+	3900 7250 3900 6950
+Connection ~ 3900 7550
+Wire Wire Line
+	3900 7550 3900 7250
+Connection ~ 3900 7850
+Wire Wire Line
+	3900 7850 3900 7550
+Wire Wire Line
+	5250 5300 5250 5600
+Connection ~ 5250 5600
+Wire Wire Line
+	5250 5600 5250 5850
+Connection ~ 5250 5850
+Wire Wire Line
+	5250 5850 5250 6150
+Connection ~ 5250 6150
+Wire Wire Line
+	5250 6150 5250 6400
+Connection ~ 5250 6400
+Wire Wire Line
+	5250 6400 5250 6700
+Connection ~ 5250 6700
+Wire Wire Line
+	5250 6700 5250 6950
+Connection ~ 5250 6950
+Wire Wire Line
+	5250 6950 5250 7250
+Connection ~ 5250 7250
+Wire Wire Line
+	5250 7250 5250 7550
+Connection ~ 5250 7550
+Wire Wire Line
+	5250 7550 5250 7850
+Connection ~ 5250 7850
+Connection ~ 6850 5600
+Wire Wire Line
+	6850 5600 6850 5300
+Connection ~ 6850 5850
+Wire Wire Line
+	6850 5850 6850 5600
+Connection ~ 6850 6150
+Wire Wire Line
+	6850 6150 6850 5850
+$Comp
+L power:GND #PWR0101
+U 1 1 5B0568BF
+P 2300 4500
+F 0 "#PWR0101" H 2300 4250 50  0001 C CNN
+F 1 "GND" H 2305 4327 50  0000 C CNN
+F 2 "" H 2300 4500 50  0001 C CNN
+F 3 "" H 2300 4500 50  0001 C CNN
+	1    2300 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5B056ABB
+P 3900 4500
+F 0 "#PWR0102" H 3900 4250 50  0001 C CNN
+F 1 "GND" H 3905 4327 50  0000 C CNN
+F 2 "" H 3900 4500 50  0001 C CNN
+F 3 "" H 3900 4500 50  0001 C CNN
+	1    3900 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5B056BB6
+P 5250 4500
+F 0 "#PWR0103" H 5250 4250 50  0001 C CNN
+F 1 "GND" H 5255 4327 50  0000 C CNN
+F 2 "" H 5250 4500 50  0001 C CNN
+F 3 "" H 5250 4500 50  0001 C CNN
+	1    5250 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5B056BBC
+P 6850 4500
+F 0 "#PWR0104" H 6850 4250 50  0001 C CNN
+F 1 "GND" H 6855 4327 50  0000 C CNN
+F 2 "" H 6850 4500 50  0001 C CNN
+F 3 "" H 6850 4500 50  0001 C CNN
+	1    6850 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5B059882
+P 2300 8150
+F 0 "#PWR0105" H 2300 7900 50  0001 C CNN
+F 1 "GND" H 2305 7977 50  0000 C CNN
+F 2 "" H 2300 8150 50  0001 C CNN
+F 3 "" H 2300 8150 50  0001 C CNN
+	1    2300 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 5B059888
+P 3900 8150
+F 0 "#PWR0106" H 3900 7900 50  0001 C CNN
+F 1 "GND" H 3905 7977 50  0000 C CNN
+F 2 "" H 3900 8150 50  0001 C CNN
+F 3 "" H 3900 8150 50  0001 C CNN
+	1    3900 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 5B05988E
+P 5250 8150
+F 0 "#PWR0107" H 5250 7900 50  0001 C CNN
+F 1 "GND" H 5255 7977 50  0000 C CNN
+F 2 "" H 5250 8150 50  0001 C CNN
+F 3 "" H 5250 8150 50  0001 C CNN
+	1    5250 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 5B059894
+P 6850 8150
+F 0 "#PWR0108" H 6850 7900 50  0001 C CNN
+F 1 "GND" H 6855 7977 50  0000 C CNN
+F 2 "" H 6850 8150 50  0001 C CNN
+F 3 "" H 6850 8150 50  0001 C CNN
+	1    6850 8150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 7850 5250 8150
+$Comp
+L atmel:ATXMEGA128A1U-AU U1
+U 1 1 5B06289E
+P 11650 5850
+F 0 "U1" H 11650 8428 50  0000 C CNN
+F 1 "ATXMEGA128A1U-AU" H 11650 8337 50  0000 C CNN
+F 2 "Package_QFP:TQFP-100_14x14mm_P0.5mm" H 11650 5850 50  0001 C CIN
+F 3 "http://www.atmel.com/Images/Atmel-8385-8-and-16-bit-AVR-Microcontroller-ATxmega64A1U-ATxmega128A1U_datasheet.pdf" H 11650 5850 50  0001 C CNN
+	1    11650 5850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn_usb:USB_Type_C_2.0_Receptacle J1
+U 1 1 5B062CDF
+P 9000 7000
+F 0 "J1" H 9180 8417 50  0000 C CNN
+F 1 "USB_Type_C_2.0_Receptacle" H 9180 8326 50  0000 C CNN
+F 2 "Keyplus_conn_usb:USB_TypeC_U31F-24SNA0201" V 8950 6550 50  0001 C CNN
+F 3 "http://www.usb.org/developers/docs/usb_31_033017.zip" V 8950 6550 50  0001 C CNN
+	1    9000 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5B06649C
+P 9650 7850
+F 0 "R1" H 9720 7896 50  0000 L CNN
+F 1 "5.1k" H 9720 7805 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.99x1.00mm_HandSolder" V 9580 7850 50  0001 C CNN
+F 3 "~" H 9650 7850 50  0001 C CNN
+	1    9650 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Tag-Connect:TC2030-IDC P1
+U 1 1 5B08FC44
+P 12900 1850
+F 0 "P1" H 12900 2142 40  0000 C CNN
+F 1 "TC2030-IDC" H 12900 2066 40  0000 C CNN
+F 2 "Keyplus_Tag-Connect:TC2030-NL_SMALL" H 12900 1850 50  0001 C CNN
+F 3 "" H 12900 1850 50  0001 C CNN
+	1    12900 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L microchip:MIC550X U2
+U 1 1 5B08FD89
+P 10800 2350
+F 0 "U2" H 10800 2787 60  0000 C CNN
+F 1 "MIC550X" H 10800 2681 60  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" H 10800 2350 60  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf" H 10800 2350 60  0001 C CNN
+	1    10800 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5B09013E
+P 11450 2350
+F 0 "C1" H 11565 2396 50  0000 L CNN
+F 1 "10uf" H 11565 2305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.29x1.40mm_HandSolder" H 11488 2200 50  0001 C CNN
+F 3 "~" H 11450 2350 50  0001 C CNN
+	1    11450 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0109
+U 1 1 5B0902CC
+P 12000 1950
+F 0 "#PWR0109" H 12000 1800 50  0001 C CNN
+F 1 "VCC" H 12017 2123 50  0000 C CNN
+F 2 "" H 12000 1950 50  0001 C CNN
+F 3 "" H 12000 1950 50  0001 C CNN
+	1    12000 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0110
+U 1 1 5B090401
+P 13150 1500
+F 0 "#PWR0110" H 13150 1350 50  0001 C CNN
+F 1 "VCC" H 13167 1673 50  0000 C CNN
+F 2 "" H 13150 1500 50  0001 C CNN
+F 3 "" H 13150 1500 50  0001 C CNN
+	1    13150 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:+5V #PWR0111
+U 1 1 5B0904F3
+P 10100 1950
+F 0 "#PWR0111" H 10100 1920 20  0001 C CNN
+F 1 "+5V" H 10100 2088 30  0000 C CNN
+F 2 "" H 10100 1950 60  0000 C CNN
+F 3 "" H 10100 1950 60  0000 C CNN
+	1    10100 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:+5V #PWR0112
+U 1 1 5B0906EA
+P 9600 5450
+F 0 "#PWR0112" H 9600 5420 20  0001 C CNN
+F 1 "+5V" H 9600 5588 30  0000 C CNN
+F 2 "" H 9600 5450 60  0000 C CNN
+F 3 "" H 9600 5450 60  0000 C CNN
+	1    9600 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5B090EFB
+P 9850 7850
+F 0 "R2" H 9920 7896 50  0000 L CNN
+F 1 "5.1k" H 9920 7805 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.99x1.00mm_HandSolder" V 9780 7850 50  0001 C CNN
+F 3 "~" H 9850 7850 50  0001 C CNN
+	1    9850 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0113
+U 1 1 5B0946FD
+P 12550 8250
+F 0 "#PWR0113" H 12550 8000 50  0001 C CNN
+F 1 "GND" H 12555 8077 50  0000 C CNN
+F 2 "" H 12550 8250 50  0001 C CNN
+F 3 "" H 12550 8250 50  0001 C CNN
+	1    12550 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0114
+U 1 1 5B09490B
+P 9650 8050
+F 0 "#PWR0114" H 9650 7800 50  0001 C CNN
+F 1 "GND" H 9655 7877 50  0000 C CNN
+F 2 "" H 9650 8050 50  0001 C CNN
+F 3 "" H 9650 8050 50  0001 C CNN
+	1    9650 8050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 5B0949F6
+P 9850 8050
+F 0 "#PWR0115" H 9850 7800 50  0001 C CNN
+F 1 "GND" H 9855 7877 50  0000 C CNN
+F 2 "" H 9850 8050 50  0001 C CNN
+F 3 "" H 9850 8050 50  0001 C CNN
+	1    9850 8050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0116
+U 1 1 5B094AE1
+P 9400 8150
+F 0 "#PWR0116" H 9400 7900 50  0001 C CNN
+F 1 "GND" H 9405 7977 50  0000 C CNN
+F 2 "" H 9400 8150 50  0001 C CNN
+F 3 "" H 9400 8150 50  0001 C CNN
+	1    9400 8150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 5B09517B
+P 10100 2500
+F 0 "#PWR0117" H 10100 2250 50  0001 C CNN
+F 1 "GND" V 10105 2372 50  0000 R CNN
+F 2 "" H 10100 2500 50  0001 C CNN
+F 3 "" H 10100 2500 50  0001 C CNN
+	1    10100 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0118
+U 1 1 5B095266
+P 13150 2200
+F 0 "#PWR0118" H 13150 1950 50  0001 C CNN
+F 1 "GND" H 13155 2027 50  0000 C CNN
+F 2 "" H 13150 2200 50  0001 C CNN
+F 3 "" H 13150 2200 50  0001 C CNN
+	1    13150 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0119
+U 1 1 5B095351
+P 11450 2750
+F 0 "#PWR0119" H 11450 2500 50  0001 C CNN
+F 1 "GND" H 11455 2577 50  0000 C CNN
+F 2 "" H 11450 2750 50  0001 C CNN
+F 3 "" H 11450 2750 50  0001 C CNN
+	1    11450 2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 9600 6150
+Connection ~ 9600 6050
+Wire Wire Line
+	9600 6050 9600 5950
+Wire Wire Line
+	9600 5950 9600 5450
+Connection ~ 9600 5950
+Wire Wire Line
+	9600 6150 9600 6050
+Wire Wire Line
+	9600 6250 9600 6150
+NoConn ~ 9600 6500
+NoConn ~ 9600 6600
+Wire Wire Line
+	9600 6850 9650 6850
+Wire Wire Line
+	9650 6850 9650 6900
+Wire Wire Line
+	9650 6950 9600 6950
+Wire Wire Line
+	9650 6900 10450 6900
+Connection ~ 9650 6900
+Wire Wire Line
+	9650 6900 9650 6950
+Wire Wire Line
+	9600 7050 9650 7050
+Wire Wire Line
+	9650 7050 9650 7100
+Wire Wire Line
+	9650 7150 9600 7150
+Wire Wire Line
+	9650 7100 9700 7100
+Wire Wire Line
+	9700 7100 9700 7000
+Wire Wire Line
+	9700 7000 10450 7000
+Connection ~ 9650 7100
+Wire Wire Line
+	9650 7100 9650 7150
+Wire Wire Line
+	9650 8000 9650 8050
+Wire Wire Line
+	9850 8000 9850 8050
+Wire Wire Line
+	9650 7700 9650 7500
+Wire Wire Line
+	9650 7500 9600 7500
+Wire Wire Line
+	9600 7400 9850 7400
+Wire Wire Line
+	9850 7400 9850 7700
+Wire Wire Line
+	11100 3450 11200 3450
+Connection ~ 11200 3450
+Wire Wire Line
+	11200 3450 11350 3450
+Connection ~ 11350 3450
+Wire Wire Line
+	11350 3450 11450 3450
+Connection ~ 11450 3450
+Wire Wire Line
+	11450 3450 11550 3450
+Connection ~ 11550 3450
+Wire Wire Line
+	11550 3450 11650 3450
+Connection ~ 11650 3450
+Wire Wire Line
+	11650 3450 11750 3450
+Connection ~ 11750 3450
+Wire Wire Line
+	11750 3450 11850 3450
+Connection ~ 11850 3450
+Wire Wire Line
+	11850 3450 11950 3450
+Connection ~ 11950 3450
+Wire Wire Line
+	11950 3450 12000 3450
+Connection ~ 12000 3450
+Wire Wire Line
+	12000 3450 12050 3450
+$Comp
+L power:GND #PWR0120
+U 1 1 5B0CCE59
+P 12250 3350
+F 0 "#PWR0120" H 12250 3100 50  0001 C CNN
+F 1 "GND" H 12255 3177 50  0000 C CNN
+F 2 "" H 12250 3350 50  0001 C CNN
+F 3 "" H 12250 3350 50  0001 C CNN
+	1    12250 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11250 2200 11450 2200
+Connection ~ 11450 2200
+Wire Wire Line
+	11450 2200 12000 2200
+Wire Wire Line
+	12000 1950 12000 2200
+Connection ~ 12000 2200
+Wire Wire Line
+	10350 2350 10200 2350
+Wire Wire Line
+	10200 2350 10200 2200
+Wire Wire Line
+	10200 2200 10350 2200
+Wire Wire Line
+	10200 2200 10100 2200
+Wire Wire Line
+	10100 2200 10100 1950
+Connection ~ 10200 2200
+Wire Wire Line
+	10100 2500 10350 2500
+Wire Wire Line
+	11450 2500 11450 2750
+Wire Wire Line
+	13150 1500 13150 1750
+Wire Wire Line
+	13150 2200 13150 1950
+NoConn ~ 13150 1850
+Text Label 12650 1750 2    50   ~ 0
+PDI
+Text Label 12650 1950 2    50   ~ 0
+RST
+NoConn ~ 12650 1850
+Wire Wire Line
+	9000 8150 9100 8150
+Connection ~ 9100 8150
+Wire Wire Line
+	9100 8150 9200 8150
+Connection ~ 9200 8150
+Wire Wire Line
+	9200 8150 9300 8150
+Connection ~ 9300 8150
+Wire Wire Line
+	9300 8150 9400 8150
+NoConn ~ 8900 8150
+Wire Wire Line
+	11250 8250 11350 8250
+Connection ~ 11350 8250
+Wire Wire Line
+	11350 8250 11450 8250
+Connection ~ 11450 8250
+Wire Wire Line
+	11450 8250 11550 8250
+Connection ~ 11550 8250
+Wire Wire Line
+	11550 8250 11650 8250
+Connection ~ 11650 8250
+Wire Wire Line
+	11650 8250 11750 8250
+Connection ~ 11750 8250
+Wire Wire Line
+	11750 8250 11850 8250
+Connection ~ 11850 8250
+Wire Wire Line
+	11850 8250 11950 8250
+Connection ~ 11950 8250
+Wire Wire Line
+	11950 8250 12050 8250
+Connection ~ 12050 8250
+Wire Wire Line
+	12050 8250 12150 8250
+Connection ~ 12150 8250
+Wire Wire Line
+	12150 8250 12550 8250
+Text Label 12850 3850 0    50   ~ 0
+PDI
+Text Label 12850 3750 0    50   ~ 0
+RST
+Text Label 1700 1700 2    50   ~ 0
+KEY0
+Text Label 1700 2000 2    50   ~ 0
+KEY1
+Text Label 1700 2250 2    50   ~ 0
+KEY2
+Text Label 1700 2550 2    50   ~ 0
+KEY3
+Text Label 1700 2800 2    50   ~ 0
+KEY4
+Text Label 1700 3100 2    50   ~ 0
+KEY5
+Text Label 1700 3350 2    50   ~ 0
+KEY6
+Text Label 1700 3650 2    50   ~ 0
+KEY7
+Text Label 1700 3950 2    50   ~ 0
+KEY8
+Text Label 1700 4250 2    50   ~ 0
+KEY9
+Text Label 1700 5300 2    50   ~ 0
+KEY10
+Text Label 1700 5600 2    50   ~ 0
+KEY11
+Text Label 1700 5850 2    50   ~ 0
+KEY12
+Text Label 1700 6150 2    50   ~ 0
+KEY13
+Text Label 1700 6400 2    50   ~ 0
+KEY14
+Text Label 1700 6700 2    50   ~ 0
+KEY15
+Text Label 1700 6950 2    50   ~ 0
+KEY16
+Text Label 1700 7250 2    50   ~ 0
+KEY17
+Text Label 1700 7550 2    50   ~ 0
+KEY18
+Text Label 1700 7850 2    50   ~ 0
+KEY19
+Text Label 3300 1700 2    50   ~ 0
+KEY20
+Text Label 3300 2000 2    50   ~ 0
+KEY21
+Text Label 3300 2250 2    50   ~ 0
+KEY22
+Text Label 3300 2550 2    50   ~ 0
+KEY23
+Text Label 3300 2800 2    50   ~ 0
+KEY24
+Text Label 3300 3100 2    50   ~ 0
+KEY25
+Text Label 3300 3350 2    50   ~ 0
+KEY26
+Text Label 3300 3650 2    50   ~ 0
+KEY27
+Text Label 3300 3950 2    50   ~ 0
+KEY28
+Text Label 3300 4250 2    50   ~ 0
+KEY29
+Text Label 3300 5300 2    50   ~ 0
+KEY30
+Text Label 3300 5600 2    50   ~ 0
+KEY31
+Text Label 3300 5850 2    50   ~ 0
+KEY32
+Text Label 3300 6150 2    50   ~ 0
+KEY33
+Text Label 3300 6400 2    50   ~ 0
+KEY34
+Text Label 3300 6700 2    50   ~ 0
+KEY35
+Text Label 3300 6950 2    50   ~ 0
+KEY36
+Text Label 3300 7250 2    50   ~ 0
+KEY37
+Text Label 3300 7550 2    50   ~ 0
+KEY38
+Text Label 3300 7850 2    50   ~ 0
+KEY39
+Text Label 4650 1700 2    50   ~ 0
+KEY40
+Text Label 4650 2000 2    50   ~ 0
+KEY41
+Text Label 4650 2250 2    50   ~ 0
+KEY42
+Text Label 4650 2550 2    50   ~ 0
+KEY43
+Text Label 4650 2800 2    50   ~ 0
+KEY44
+Text Label 4650 3100 2    50   ~ 0
+KEY45
+Text Label 4650 3350 2    50   ~ 0
+KEY46
+Text Label 4650 3650 2    50   ~ 0
+KEY47
+Text Label 4650 3950 2    50   ~ 0
+KEY48
+Text Label 4650 4250 2    50   ~ 0
+KEY49
+Text Label 4650 5300 2    50   ~ 0
+KEY50
+Text Label 4650 5600 2    50   ~ 0
+KEY51
+Text Label 4650 5850 2    50   ~ 0
+KEY52
+Text Label 4650 6150 2    50   ~ 0
+KEY53
+Text Label 4650 6400 2    50   ~ 0
+KEY54
+Text Label 4650 6700 2    50   ~ 0
+KEY55
+Text Label 4650 6950 2    50   ~ 0
+KEY56
+Text Label 4650 7250 2    50   ~ 0
+KEY57
+Text Label 4650 7550 2    50   ~ 0
+KEY58
+Text Label 4650 7850 2    50   ~ 0
+KEY59
+Text Label 6250 1700 2    50   ~ 0
+KEY60
+Text Label 6250 2000 2    50   ~ 0
+KEY61
+Text Label 6250 2250 2    50   ~ 0
+KEY62
+Text Label 6250 2550 2    50   ~ 0
+KEY63
+Text Label 6250 2800 2    50   ~ 0
+KEY64
+Text Label 6250 3100 2    50   ~ 0
+KEY65
+Text Label 6250 3350 2    50   ~ 0
+KEY66
+Text Label 6250 3650 2    50   ~ 0
+KEY67
+Text Label 6250 3950 2    50   ~ 0
+KEY68
+Text Label 6250 4250 2    50   ~ 0
+KEY69
+Text Label 6250 5300 2    50   ~ 0
+KEY70
+Text Label 6250 5600 2    50   ~ 0
+KEY71
+Text Label 6250 5850 2    50   ~ 0
+KEY72
+Text Label 6250 6150 2    50   ~ 0
+KEY73
+Wire Wire Line
+	6850 6150 6850 6450
+$Comp
+L keyboard_parts:SW_PUSH SW74
+U 1 1 5B187F82
+P 6550 6450
+F 0 "SW74" H 6550 6705 50  0000 C CNN
+F 1 "K0" H 6550 6614 50  0000 C CNN
+F 2 "ai03_hybrid:MX-7U-ReversedStabilizers-NoLED" H 6550 6450 60  0001 C CNN
+F 3 "" H 6550 6450 60  0000 C CNN
+	1    6550 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW75
+U 1 1 5B187F88
+P 6550 6750
+F 0 "SW75" H 6550 7005 50  0000 C CNN
+F 1 "K0" H 6550 6914 50  0000 C CNN
+F 2 "ai03_hybrid:MX-6U-7UOverlay-ReversedStabilizers" H 6550 6750 60  0001 C CNN
+F 3 "" H 6550 6750 60  0000 C CNN
+	1    6550 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW76
+U 1 1 5B187F8E
+P 6550 7000
+F 0 "SW76" H 6550 7255 50  0000 C CNN
+F 1 "K0" H 6550 7164 50  0000 C CNN
+F 2 "ai03_hybrid:MX-3U-ReversedStabilizers-NoLED" H 6550 7000 60  0001 C CNN
+F 3 "" H 6550 7000 60  0000 C CNN
+	1    6550 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW77
+U 1 1 5B187F94
+P 6550 7300
+F 0 "SW77" H 6550 7555 50  0000 C CNN
+F 1 "K0" H 6550 7464 50  0000 C CNN
+F 2 "ai03_hybrid:MX-3U-ReversedStabilizers-NoLED" H 6550 7300 60  0001 C CNN
+F 3 "" H 6550 7300 60  0000 C CNN
+	1    6550 7300
+	1    0    0    -1  
+$EndComp
+Text Label 6250 6450 2    50   ~ 0
+KEY74
+Text Label 6250 6750 2    50   ~ 0
+KEY75
+Text Label 6250 7000 2    50   ~ 0
+KEY76
+Text Label 6250 7300 2    50   ~ 0
+KEY77
+Connection ~ 6850 6450
+Wire Wire Line
+	6850 6450 6850 6750
+Connection ~ 6850 6750
+Wire Wire Line
+	6850 6750 6850 7000
+Connection ~ 6850 7000
+Wire Wire Line
+	6850 7000 6850 7300
+Connection ~ 6850 7300
+Wire Wire Line
+	6850 7300 6850 7550
+$Comp
+L keyboard_parts:SW_PUSH SW78
+U 1 1 5B18D880
+P 6550 7550
+F 0 "SW78" H 6550 7805 50  0000 C CNN
+F 1 "K0" H 6550 7714 50  0000 C CNN
+F 2 "ai03_hybrid:MX-1U-NoLED" H 6550 7550 60  0001 C CNN
+F 3 "" H 6550 7550 60  0000 C CNN
+	1    6550 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW79
+U 1 1 5B18D886
+P 6550 7850
+F 0 "SW79" H 6550 8105 50  0000 C CNN
+F 1 "K0" H 6550 8014 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 6550 7850 60  0001 C CNN
+F 3 "" H 6550 7850 60  0000 C CNN
+	1    6550 7850
+	1    0    0    -1  
+$EndComp
+Text Label 6250 7550 2    50   ~ 0
+KEY78
+Text Label 6250 7850 2    50   ~ 0
+KEY79
+Connection ~ 6850 7550
+Wire Wire Line
+	6850 7550 6850 7850
+Connection ~ 6850 7850
+Wire Wire Line
+	6850 7850 6850 8150
+$Comp
+L keyboard_parts:SW_PUSH SW80
+U 1 1 5B193396
+P 7850 5350
+F 0 "SW80" H 7850 5605 50  0000 C CNN
+F 1 "K0" H 7850 5514 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 7850 5350 60  0001 C CNN
+F 3 "" H 7850 5350 60  0000 C CNN
+	1    7850 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW81
+U 1 1 5B19339C
+P 7850 5650
+F 0 "SW81" H 7850 5905 50  0000 C CNN
+F 1 "K0" H 7850 5814 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 7850 5650 60  0001 C CNN
+F 3 "" H 7850 5650 60  0000 C CNN
+	1    7850 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW82
+U 1 1 5B1933A2
+P 7850 5950
+F 0 "SW82" H 7850 6205 50  0000 C CNN
+F 1 "K0" H 7850 6114 50  0000 C CNN
+F 2 "wood_kailh_socket:Kailh_MX_Socket" H 7850 5950 60  0001 C CNN
+F 3 "" H 7850 5950 60  0000 C CNN
+	1    7850 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8150 5350 8150 5650
+Connection ~ 8150 5650
+Wire Wire Line
+	8150 5650 8150 5950
+Connection ~ 8150 5950
+$Comp
+L power:GND #PWR0130
+U 1 1 5B1933AF
+P 8150 6550
+F 0 "#PWR0130" H 8150 6300 50  0001 C CNN
+F 1 "GND" H 8155 6377 50  0000 C CNN
+F 2 "" H 8150 6550 50  0001 C CNN
+F 3 "" H 8150 6550 50  0001 C CNN
+	1    8150 6550
+	1    0    0    -1  
+$EndComp
+Text Label 7550 5350 2    50   ~ 0
+KEY80
+Text Label 7550 5650 2    50   ~ 0
+KEY81
+Text Label 7550 5950 2    50   ~ 0
+KEY82
+Wire Wire Line
+	8150 5950 8150 6550
+$Comp
+L Device:C C2
+U 1 1 5B1AC915
+P 12250 3150
+F 0 "C2" H 12135 3104 50  0000 R CNN
+F 1 "10uf" H 12135 3195 50  0000 R CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.29x1.40mm_HandSolder" H 12288 3000 50  0001 C CNN
+F 3 "~" H 12250 3150 50  0001 C CNN
+	1    12250 3150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12000 2200 12000 3000
+Wire Wire Line
+	12250 3300 12250 3350
+Wire Wire Line
+	12250 3000 12000 3000
+Connection ~ 12000 3000
+Wire Wire Line
+	12000 3000 12000 3450
+$EndSCHEMATC
