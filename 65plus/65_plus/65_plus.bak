@@ -495,7 +495,7 @@ F 1 "K0" H 2000 6314 50  0000 C CNN
 F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 6150 60  0001 C CNN
 F 3 "" H 2000 6150 60  0000 C CNN
 	1    2000 6150
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L keyboard_parts:SW_PUSH SW14
@@ -503,10 +503,10 @@ U 1 1 5B04F18A
 P 2000 6400
 F 0 "SW14" H 2000 6655 50  0000 C CNN
 F 1 "K0" H 2000 6564 50  0000 C CNN
-F 2 "wood_kailh_socket:Kailh_MX_Socket" H 2000 6400 60  0001 C CNN
+F 2 "keebrary_mx:MX_PCB_100H" H 2000 6400 60  0001 C CNN
 F 3 "" H 2000 6400 60  0000 C CNN
 	1    2000 6400
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L keyboard_parts:SW_PUSH SW15
@@ -514,10 +514,10 @@ U 1 1 5B04F190
 P 2000 6700
 F 0 "SW15" H 2000 6955 50  0000 C CNN
 F 1 "K0" H 2000 6864 50  0000 C CNN
-F 2 "ai03_hybrid:MX-1U-NoLED" H 2000 6700 60  0001 C CNN
+F 2 "keebrary_mx:MX_PCB_100H" H 2000 6700 60  0001 C CNN
 F 3 "" H 2000 6700 60  0000 C CNN
 	1    2000 6700
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L keyboard_parts:SW_PUSH SW16
@@ -525,10 +525,10 @@ U 1 1 5B04F196
 P 2000 6950
 F 0 "SW16" H 2000 7205 50  0000 C CNN
 F 1 "K0" H 2000 7114 50  0000 C CNN
-F 2 "ai03_hybrid:MX-2U-NoLED" H 2000 6950 60  0001 C CNN
+F 2 "keebrary_mx:MX_PCB_200H" H 2000 6950 60  0001 C CNN
 F 3 "" H 2000 6950 60  0000 C CNN
 	1    2000 6950
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L keyboard_parts:SW_PUSH SW17
@@ -536,7 +536,7 @@ U 1 1 5B04F19C
 P 2000 7250
 F 0 "SW17" H 2000 7505 50  0000 C CNN
 F 1 "K0" H 2000 7414 50  0000 C CNN
-F 2 "ai03_hybrid:MX-1U-NoLED" H 2000 7250 60  0001 C CNN
+F 2 "keebrary_mx:MX_PCB_100H" H 2000 7250 60  0001 C CNN
 F 3 "" H 2000 7250 60  0000 C CNN
 	1    2000 7250
 	1    0    0    -1  
@@ -1714,7 +1714,7 @@ U 1 1 5B18D880
 P 6550 7550
 F 0 "SW78" H 6550 7805 50  0000 C CNN
 F 1 "K0" H 6550 7714 50  0000 C CNN
-F 2 "ai03_hybrid:MX-1U-NoLED" H 6550 7550 60  0001 C CNN
+F 2 "keebrary_mx:MX_PCB_100H" H 6550 7550 60  0001 C CNN
 F 3 "" H 6550 7550 60  0000 C CNN
 	1    6550 7550
 	1    0    0    -1  
@@ -1797,7 +1797,7 @@ KEY81
 Text Label 7550 5950 2    50   ~ 0
 KEY82
 Wire Wire Line
-	8150 5950 8150 6550
+	8150 5950 8150 6200
 $Comp
 L Device:C C2
 U 1 1 5B1AC915
@@ -1818,4 +1818,40 @@ Wire Wire Line
 Connection ~ 12000 3000
 Wire Wire Line
 	12000 3000 12000 3450
+Text Label 10450 3750 2    50   ~ 0
+KEY53
+Text Label 10450 3850 2    50   ~ 0
+KEY69
+Text Label 10450 3950 2    50   ~ 0
+KEY68
+Text Label 10450 4050 2    50   ~ 0
+KEY52
+Text Label 10450 4150 2    50   ~ 0
+KEY36
+Text Label 10450 4250 2    50   ~ 0
+KEY19
+Text Label 10450 4350 2    50   ~ 0
+KEY0
+Text Label 10450 4450 2    50   ~ 0
+KEY1
+Text Label 10450 4600 2    50   ~ 0
+KEY20
+Text Label 10450 4700 2    50   ~ 0
+KEY37
+Connection ~ 8150 6200
+Wire Wire Line
+	8150 6200 8150 6550
+$Comp
+L keyboard_parts:SW_PUSH SW14.5
+U 1 1 5B1E0FF7
+P 7850 6200
+F 0 "SW14.5" H 7850 6455 50  0000 C CNN
+F 1 "K0" H 7850 6364 50  0000 C CNN
+F 2 "keebrary_mx:MX_PCB_200H" H 7850 6200 60  0001 C CNN
+F 3 "" H 7850 6200 60  0000 C CNN
+	1    7850 6200
+	-1   0    0    -1  
+$EndComp
+Text Label 7550 6200 2    50   ~ 0
+KEY14.5
 $EndSCHEMATC
