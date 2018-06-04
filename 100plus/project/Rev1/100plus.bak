@@ -4181,4 +4181,36 @@ Wire Wire Line
 Wire Wire Line
 	5900 6400 6200 7300
 Connection ~ 5900 6400
+$Comp
+L SparkFun-Boards:SPARKFUN_PRO_MICRO B1
+U 1 1 5B1441C6
+P 26500 3600
+F 0 "B1" H 26500 4510 45  0000 C CNN
+F 1 "SPARKFUN_PRO_MICRO" H 26500 4426 45  0000 C CNN
+F 2 "SPARKFUN_PRO_MICRO" H 26500 4400 20  0001 C CNN
+F 3 "" H 26500 3600 50  0001 C CNN
+F 4 "XXX-00000" H 26500 4331 60  0000 C CNN "Field4"
+	1    26500 3600
+	1    0    0    -1  
+$EndComp
+Text GLabel 26950 4050 2    50   Input ~ 0
+COL16
+Text GLabel 26950 4150 2    50   Input ~ 0
+COL17
+Text GLabel 26050 3450 0    50   Input ~ 0
+COL18
+Text GLabel 26050 3550 0    50   Input ~ 0
+COL19
+Text GLabel 26050 3650 0    50   Input ~ 0
+ROW0
+Text GLabel 26050 3750 0    50   Input ~ 0
+ROW1
+Text GLabel 26050 3950 0    50   Input ~ 0
+ROW3
+Text GLabel 26050 3850 0    50   Input ~ 0
+ROW2
+Text GLabel 26050 4050 0    50   Input ~ 0
+ROW4
+Text GLabel 26050 4150 0    50   Input ~ 0
+ROW5
 $EndSCHEMATC
