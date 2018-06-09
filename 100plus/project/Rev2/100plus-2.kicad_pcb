@@ -11300,7 +11300,7 @@
   (gr_line (start 483.39375 197.64375) (end 54.76875 197.64375) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 485.775 80.9625) (end 485.775 195.2625) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 259.55625 78.58125) (end 483.39375 78.58125) (layer Edge.Cuts) (width 0.2))
-  (gr_text "PCB by amesa0 (Helpful) - Revision 1" (at 163.75 114.9) (layer F.SilkS) (tstamp 5B1D4114)
+  (gr_text "PCB by amesa0 (Helpful) - Revision 2" (at 163.75 114.9) (layer F.SilkS) (tstamp 5B1D4114)
     (effects (font (size 3 3) (thickness 0.6)))
   )
   (gr_text "Design guidance from Amtra5, _spindle, woodkeys, Hiney, ai03 " (at 167.7 119.33) (layer F.SilkS) (tstamp 5B1D4113)
