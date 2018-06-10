@@ -1155,17 +1155,6 @@ F 3 "" H 16000 3450 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K43
-U 1 1 5B0CF8D8
-P 15200 3450
-F 0 "K43" H 15200 3683 60  0000 C CNN
-F 1 "KEYSW" H 15200 3350 60  0001 C CNN
-F 2 "Helpful:Kailh_MX_Socket" H 15200 3450 60  0001 C CNN
-F 3 "" H 15200 3450 60  0000 C CNN
-	1    15200 3450
-	1    0    0    -1  
-$EndComp
-$Comp
 L keyboard_parts:KEYSW K45
 U 1 1 5B0D1C2E
 P 2750 4300
@@ -3609,10 +3598,6 @@ Connection ~ 14700 3350
 Wire Wire Line
 	15100 2400 15500 3350
 Connection ~ 15100 2400
-Connection ~ 14900 3450
-Wire Wire Line
-	15500 3350 15500 3450
-Connection ~ 15500 3350
 Wire Wire Line
 	15900 2400 16300 3350
 Connection ~ 15900 2400
