@@ -4610,8 +4610,6 @@ Wire Wire Line
 	10250 7100 10250 7150
 Connection ~ 10250 7150
 Connection ~ 10250 7300
-Wire Wire Line
-	10250 7300 10250 7350
 $Comp
 L keyboard_parts:KEYSW K169
 U 1 1 5BFD7EFA
@@ -5148,12 +5146,76 @@ Wire Wire Line
 	14000 7300 14000 7250
 Connection ~ 14000 7250
 Wire Wire Line
-	10250 7400 10250 7350
-Connection ~ 10250 7350
-Wire Wire Line
-	10250 7350 10250 7300
-Wire Wire Line
 	10250 7150 10250 7300
 Wire Wire Line
 	9650 7150 9650 7300
+$Comp
+L keyboard_parts:Teensy2.0++ U3
+U 1 1 5B40C5BD
+P 26650 6650
+F 0 "U3" H 26650 8297 60  0000 C CNN
+F 1 "Teensy2.0++" H 26650 8191 60  0000 C CNN
+F 2 "keebs_misc:Teensy2.0++" H 26650 6700 60  0001 C CNN
+F 3 "" H 26650 6700 60  0000 C CNN
+	1    26650 6650
+	1    0    0    -1  
+$EndComp
+Text GLabel 28200 6650 2    50   Input ~ 0
+ROW0
+Text GLabel 28200 6100 2    50   Input ~ 0
+ROW1
+Text GLabel 28200 6200 2    50   Input ~ 0
+ROW2
+Text GLabel 28200 6300 2    50   Input ~ 0
+ROW3
+Text GLabel 28200 6400 2    50   Input ~ 0
+ROW4
+Text GLabel 28200 6550 2    50   Input ~ 0
+ROW5
+Text GLabel 28200 5950 2    50   Input ~ 0
+COL19
+Text GLabel 28200 5850 2    50   Input ~ 0
+COL18
+Text GLabel 28200 5750 2    50   Input ~ 0
+COL17
+Text GLabel 28200 5650 2    50   Input ~ 0
+COL16
+Text GLabel 28200 5250 2    50   Input ~ 0
+COL12
+Text GLabel 28200 5350 2    50   Input ~ 0
+COL11
+Text GLabel 28200 5450 2    50   Input ~ 0
+COL10
+Text GLabel 28200 5550 2    50   Input ~ 0
+COL9
+Text GLabel 28200 7050 2    50   Input ~ 0
+COL8
+Text GLabel 28200 6950 2    50   Input ~ 0
+COL7
+Text GLabel 28200 6850 2    50   Input ~ 0
+COL6
+Text GLabel 28200 7150 2    50   Input ~ 0
+COL4
+Text GLabel 28200 7250 2    50   Input ~ 0
+COL3
+Text GLabel 28200 6750 2    50   Input ~ 0
+COL5
+Wire Wire Line
+	10250 7300 10250 7400
+Text GLabel 29250 6500 0    50   Input ~ 0
+COL0
+Text GLabel 29250 6400 0    50   Input ~ 0
+COL1
+Text GLabel 29250 6300 0    50   Input ~ 0
+COL2
+Text GLabel 29250 6150 0    50   Input ~ 0
+COL15
+Text GLabel 29250 5600 0    50   Input ~ 0
+COL14
+Text GLabel 29250 6050 0    50   Input ~ 0
+COL20
+Text GLabel 29250 6800 0    50   Input ~ 0
+COL21
+Text GLabel 29250 5700 0    50   Input ~ 0
+COL13
 $EndSCHEMATC
