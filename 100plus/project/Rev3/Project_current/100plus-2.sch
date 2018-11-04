@@ -5218,4 +5218,47 @@ Text GLabel 29250 6800 0    50   Input ~ 0
 COL21
 Text GLabel 29250 5700 0    50   Input ~ 0
 COL13
+$Comp
+L keyboard_parts:Teensy2.0++ U6
+U 1 1 5B465502
+P 20450 10000
+F 0 "U6" H 20450 11647 60  0000 C CNN
+F 1 "Teensy2.0++" H 20450 11541 60  0000 C CNN
+F 2 "keebs_misc:Teensy2.0++" H 20450 10050 60  0001 C CNN
+F 3 "" H 20450 10050 60  0000 C CNN
+	1    20450 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SparkFun-Boards:SPARKFUN_PRO_MICRO B2
+U 1 1 5B486C68
+P 28600 3750
+F 0 "B2" H 28600 4660 45  0000 C CNN
+F 1 "SPARKFUN_PRO_MICRO" H 28600 4576 45  0000 C CNN
+F 2 "Boards:SPARKFUN_PRO_MICRO" H 28600 4550 20  0001 C CNN
+F 3 "" H 28600 3750 50  0001 C CNN
+F 4 "XXX-00000" H 28600 4481 60  0000 C CNN "Field4"
+	1    28600 3750
+	1    0    0    -1  
+$EndComp
+Text GLabel 29050 4200 2    50   Input ~ 0
+COL18
+Text GLabel 29050 4300 2    50   Input ~ 0
+COL19
+Text GLabel 28150 3800 0    50   Input ~ 0
+ROW0
+Text GLabel 28150 4300 0    50   Input ~ 0
+ROW1
+Text GLabel 28150 4100 0    50   Input ~ 0
+ROW3
+Text GLabel 28150 4200 0    50   Input ~ 0
+ROW2
+Text GLabel 28150 4000 0    50   Input ~ 0
+ROW4
+Text GLabel 28150 3900 0    50   Input ~ 0
+ROW5
+Text GLabel 28150 3600 0    50   Input ~ 0
+COL20
+Text GLabel 28150 3700 0    50   Input ~ 0
+COL21
 $EndSCHEMATC
