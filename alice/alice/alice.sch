@@ -843,7 +843,6 @@ Connection ~ 12850 8800
 Connection ~ 12100 8800
 Connection ~ 11350 8800
 Connection ~ 10600 8800
-Connection ~ 8900 8800
 Connection ~ 8150 8800
 Connection ~ 7400 8800
 Connection ~ 6650 8800
@@ -2670,4 +2669,89 @@ Wire Wire Line
 Connection ~ 12250 12800
 Wire Wire Line
 	12250 12800 12250 12950
+Text GLabel 3650 8450 0    50   Input ~ 0
+col0
+Text GLabel 4400 8450 0    50   Input ~ 0
+col1
+Text GLabel 5150 8450 0    50   Input ~ 0
+col2
+Text GLabel 5900 8450 0    50   Input ~ 0
+col3
+Text GLabel 6650 8450 0    50   Input ~ 0
+col4
+Text GLabel 7400 8450 0    50   Input ~ 0
+col5
+Text GLabel 8150 8450 0    50   Input ~ 0
+col6
+Connection ~ 8900 8800
+Text GLabel 8900 8450 0    50   Input ~ 0
+col7
+Text GLabel 10600 8450 0    50   Input ~ 0
+col8
+Text GLabel 11350 8450 0    50   Input ~ 0
+col9
+Text GLabel 12100 8450 0    50   Input ~ 0
+col10
+Text GLabel 12850 8450 0    50   Input ~ 0
+col11
+Text GLabel 13600 8450 0    50   Input ~ 0
+col12
+Text GLabel 14350 8450 0    50   Input ~ 0
+col13
+Text GLabel 15100 8450 0    50   Input ~ 0
+col14
+Text GLabel 15850 8450 0    50   Input ~ 0
+col15
+Text GLabel 2800 9250 0    50   Input ~ 0
+row0
+Text GLabel 2750 10250 0    50   Input ~ 0
+row1
+Text GLabel 2700 11250 0    50   Input ~ 0
+row2
+Text GLabel 2700 12250 0    50   Input ~ 0
+row3
+Text GLabel 2700 13250 0    50   Input ~ 0
+row4
+Text GLabel 5900 4900 2    50   Input ~ 0
+col0
+Text GLabel 5900 4500 2    50   Input ~ 0
+col1
+Text GLabel 5900 4400 2    50   Input ~ 0
+col2
+Text GLabel 5900 4300 2    50   Input ~ 0
+col3
+Text GLabel 5900 4200 2    50   Input ~ 0
+col4
+Text GLabel 5900 4100 2    50   Input ~ 0
+col5
+Text GLabel 5900 4000 2    50   Input ~ 0
+col6
+Text GLabel 5900 3900 2    50   Input ~ 0
+col7
+Text GLabel 3750 3700 0    50   Input ~ 0
+col8
+Text GLabel 3750 4300 0    50   Input ~ 0
+col9
+Text GLabel 3750 4400 0    50   Input ~ 0
+col10
+Text GLabel 3750 4500 0    50   Input ~ 0
+col11
+Text GLabel 3750 4600 0    50   Input ~ 0
+col12
+Text GLabel 3750 4700 0    50   Input ~ 0
+col13
+Text GLabel 3750 4800 0    50   Input ~ 0
+col14
+Text GLabel 3750 5400 0    50   Input ~ 0
+col15
+Text GLabel 5900 5000 2    50   Input ~ 0
+row0
+Text GLabel 5900 5100 2    50   Input ~ 0
+row1
+Text GLabel 5900 5200 2    50   Input ~ 0
+row2
+Text GLabel 5900 5300 2    50   Input ~ 0
+row3
+Text GLabel 5900 5400 2    50   Input ~ 0
+row4
 $EndSCHEMATC

@@ -1709,7 +1709,7 @@ F 1 "KEYSW" H 12550 12700 60  0001 C CNN
 F 2 "ai03_hybrid:MX-1.5U-NoLED" H 12550 12800 60  0001 C CNN
 F 3 "" H 12550 12800 60  0000 C CNN
 	1    12550 12800
-	-1   0    0    -1  
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D D67
@@ -2021,7 +2021,7 @@ F 1 "KEYSW" H 12550 12500 60  0001 C CNN
 F 2 "ai03_hybrid:MX-1U-NoLED" H 12550 12600 60  0001 C CNN
 F 3 "" H 12550 12600 60  0000 C CNN
 	1    12550 12600
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 Connection ~ 12850 12600
 Wire Wire Line
