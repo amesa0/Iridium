@@ -2730,15 +2730,15 @@ Text GLabel 5900 3900 2    50   Input ~ 0
 col7
 Text GLabel 3750 3700 0    50   Input ~ 0
 col8
-Text GLabel 3750 4300 0    50   Input ~ 0
+Text GLabel 3500 4300 0    50   Input ~ 0
 col9
 Text GLabel 3750 4400 0    50   Input ~ 0
 col10
-Text GLabel 3750 4500 0    50   Input ~ 0
+Text GLabel 3100 4350 0    50   Input ~ 0
 col11
-Text GLabel 3750 4600 0    50   Input ~ 0
+Text GLabel 3100 4450 0    50   Input ~ 0
 col12
-Text GLabel 3750 4700 0    50   Input ~ 0
+Text GLabel 3100 4550 0    50   Input ~ 0
 col13
 Text GLabel 3750 4800 0    50   Input ~ 0
 col14
@@ -2754,4 +2754,88 @@ Text GLabel 5900 5300 2    50   Input ~ 0
 row3
 Text GLabel 5900 5400 2    50   Input ~ 0
 row4
+$Comp
+L Connector:AVR-ISP-6 J2
+U 1 1 5BECC2A7
+P 3100 2650
+F 0 "J2" H 2820 2746 50  0000 R CNN
+F 1 "AVR-ISP-6" H 2820 2655 50  0000 R CNN
+F 2 "Connectors:2X3" V 2850 2700 50  0001 C CNN
+F 3 " ~" H 1825 2100 50  0001 C CNN
+	1    3100 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 4300 3500 4300
+Wire Wire Line
+	3500 2450 3650 2450
+Wire Wire Line
+	3650 2450 3650 4000
+Wire Wire Line
+	3650 4700 3750 4700
+Connection ~ 3650 4000
+Wire Wire Line
+	3650 4000 3650 4700
+Wire Wire Line
+	3750 4600 4200 4600
+Wire Wire Line
+	4200 4600 4200 2550
+Wire Wire Line
+	4200 2550 3500 2550
+Wire Wire Line
+	3750 4500 4100 4500
+Wire Wire Line
+	4100 4500 4100 2650
+Wire Wire Line
+	4100 2650 3500 2650
+Wire Wire Line
+	3750 4500 3200 4500
+Wire Wire Line
+	3200 4500 3200 4350
+Wire Wire Line
+	3200 4350 3100 4350
+Connection ~ 3750 4500
+Wire Wire Line
+	3100 4450 3450 4450
+Wire Wire Line
+	3450 4450 3450 4600
+Wire Wire Line
+	3450 4600 3750 4600
+Connection ~ 3750 4600
+Wire Wire Line
+	3100 4550 3550 4550
+Wire Wire Line
+	3550 4550 3550 4700
+Wire Wire Line
+	3550 4700 3650 4700
+Connection ~ 3650 4700
+Wire Wire Line
+	3500 2750 4000 2750
+Wire Wire Line
+	4000 2750 4000 4900
+Wire Wire Line
+	4000 4900 3750 4900
+Connection ~ 3750 4900
+$Comp
+L power:VCC #PWR0118
+U 1 1 5C09AB1F
+P 3000 2150
+F 0 "#PWR0118" H 3000 2000 50  0001 C CNN
+F 1 "VCC" V 3018 2277 50  0000 L CNN
+F 2 "" H 3000 2150 50  0001 C CNN
+F 3 "" H 3000 2150 50  0001 C CNN
+	1    3000 2150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0119
+U 1 1 5C09AB25
+P 3000 3050
+F 0 "#PWR0119" H 3000 2800 50  0001 C CNN
+F 1 "GND" V 3005 2922 50  0000 R CNN
+F 2 "" H 3000 3050 50  0001 C CNN
+F 3 "" H 3000 3050 50  0001 C CNN
+	1    3000 3050
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
